@@ -1,0 +1,16 @@
+{
+    "name": "kuskus-extensions-pack",
+    "displayName": "Kuskus",
+    "description": "Kusto extensions pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "rosshamish.kuskus-kusto-color-themes", 
+        "rosshamish.kuskus-kusto-syntax-highlighting",
+    ]
+}
