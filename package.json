@@ -1,8 +1,24 @@
 {
     "name": "kuskus-extensions-pack",
-    "displayName": "Kuskus",
+    "displayName": "[kuskus] Kusto extensions pack",
     "description": "Kusto extensions pack",
     "version": "0.0.1",
+    "publisher": "rosshamish",
+    "homepage": "https://github.com/rosshamish/kusto-extensions-pack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rosshamish/kusto-extensions-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/rosshamish/kusto-extensions-pack/issues"
+    },
+    "keywords": [
+        "kusto",
+        "azure",
+        "language",
+        "highlight",
+        "syntax"
+    ],
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -11,6 +27,6 @@
     ],
     "extensionPack": [ 
         "rosshamish.kuskus-kusto-color-themes", 
-        "rosshamish.kuskus-kusto-syntax-highlighting",
+        "rosshamish.kuskus-kusto-syntax-highlighting"
     ]
 }
