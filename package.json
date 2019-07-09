@@ -2,8 +2,9 @@
     "name": "kuskus-extensions-pack",
     "displayName": "[kuskus] Kusto extensions pack",
     "description": "Kusto extensions pack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "rosshamish",
+    "icon": "images/kuskus-square.png",
     "homepage": "https://github.com/rosshamish/kusto-extensions-pack",
     "repository": {
         "type": "git",
@@ -25,8 +26,8 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "rosshamish.kuskus-kusto-color-themes", 
+    "extensionPack": [
+        "rosshamish.kuskus-kusto-color-themes",
         "rosshamish.kuskus-kusto-syntax-highlighting"
     ]
 }
