@@ -1,6 +1,1 @@
-# Kuskus
-
-Extensions pack with useful extensions for developing [Kusto](https://aka.ms/kdocs) in Visual Studio Code.
-
-- Syntax Highlighting
-- Color Theme
+This repo is deprecated. The project now lives at https://github.com/rosshamish/kuskus
